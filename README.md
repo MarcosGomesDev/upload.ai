@@ -12,5 +12,5 @@ Upload.AI é uma plataforma de processamento de vídeo baseada em inteligência 
 
 ## Demo
 
-[![Watch the video](https://github.com/MarcosGomesDev/upload.ai/assets/69877839/29117b52-7257-4420-b23c-dd22a2b34702)
+https://github.com/MarcosGomesDev/upload.ai/assets/69877839/29117b52-7257-4420-b23c-dd22a2b34702
 
